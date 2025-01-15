@@ -11,15 +11,15 @@ let [myValue0, myValue1] = array;
 // console.log(myValue0);
 // console.log(myValue1);
 
-// 2. Usa desestructuración en un array y asigna un valor predeterminado a una variable
-let [myValue2 , myValue3 , myValue4 , myValue5, , ,  myValue6 = 0, myValue7 = 'locura'] = array;
+// 2. Usa desestructuración en un array y asigna un valor predeterminado a una variable// 2. Usa desestructuración en un array y asigna un valor predeterminado a una variable
+let [myValue2 , myValue3 , myValue4 , myValue5, , , myValue6 = 0, myValue7 = 'locura'] = array;
 
 console.log(myValue2);
 console.log(myValue3);
 console.log(myValue4);
 console.log(myValue5);
-console.log(myValue6);
-console.log(myValue7);
+console.log(myValue6); // valor predeterminado
+console.log(myValue7); // valor predeterminado
 
 // 3. Usa desestructuración para extraer dos propiedades de un objeto
 

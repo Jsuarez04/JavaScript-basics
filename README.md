@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello JavaScript
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![NodeJS](https://img.shields.io/badge/NODEJS-v20+-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)](https://nodejs.org/)
@@ -125,3 +126,6 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+=======
+# JavaScript-basics
+>>>>>>> 1cdc6948d8bda7364d2a9732ffaa7e518c88c14d
