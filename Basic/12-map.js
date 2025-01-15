@@ -3,7 +3,7 @@ Clase 27 - Maps
 Vídeo: https://youtu.be/1glVfFxj8a4?t=10755
 */
 
-// Map
+// Map / diccionario
 
 // Declaración
 
@@ -23,7 +23,7 @@ console.log(myMap)
 
 // Métodos y propiedades
 
-// set
+// set => agrega o modifica un elemento del map
 
 myMap.set("alias", "mouredev")
 myMap.set("name", "Brais Moure")

@@ -13,7 +13,7 @@ let person = {
     alias: "MoureDev"
 }
 
-// Acceso a propiedades
+// Acceso a propiedades:
 
 // Notación punto
 console.log(person.name)
@@ -69,7 +69,7 @@ let person3 = {
         name: "Programador",
         exp: 15,
         work: function () {
-            console.log(`La persona de ${this.age} años de experiencia trabaja.`)
+            console.log(`La persona de ${this.exp} años de experiencia trabaja.`)
         }
     }
 }
@@ -117,3 +117,13 @@ console.log(person5.name)
 
 console.log(typeof person5)
 console.log(typeof person4)
+
+function compObjetos(obj1, obj2){
+    for (let propiedad in obj1){
+        if(obj1[propiedad] !== obj2[propiedad]){
+            return false;
+        }
+        return true;
+    }
+}
+console.log(compObjetos(person, person4));

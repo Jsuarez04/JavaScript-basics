@@ -29,7 +29,7 @@ console.log(myValue3)
 console.log(myValue4)
 
 // Sintaxis arrays con valores predeterminados
-
+console.log('valores pred')
 let [myValue5 = 0, myValue6 = 0, myValue7 = 0, myValue8 = 0, myValue9 = 0] = myArray
 console.log(myValue5)
 console.log(myValue6)
