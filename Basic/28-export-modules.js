@@ -48,3 +48,6 @@ export default function substract(a, b) {
 //         console.log("Mi clase")
 //     }
 // }
+export function toIntNumber(num){
+    return parseInt(num)
+}

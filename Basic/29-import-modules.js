@@ -5,7 +5,7 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=21480
 
 // Importación de módulos
 
-import { add, PI, name, Circle } from "./28-export-modules.js"
+import { add, PI, name, Circle, toIntNumber } from "./28-export-modules.js"
 
 import defaultImport from "./28-export-modules.js"
 
@@ -35,3 +35,5 @@ console.log(defaultImport(5, 10))
 // Proyecto modular
 
 // import { MyImport } from "./directory/file.js"
+
+console.log(toIntNumber(5.5)) 
